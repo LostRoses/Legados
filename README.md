@@ -9,3 +9,9 @@ Objetivo: O que o app deve oferecer? Informações históricas? Experiência gam
 Público-alvo: Turistas, moradores, estudantes ou todos?
 
 Funcionalidades principais: Mapa interativo, roteiros personalizados, sugestões inteligentes, etc.
+
+2 - Público Alvo 🎯
+Estudantes, Turistas, Moradores, pessoas ligadas ao governo 
+
+
+

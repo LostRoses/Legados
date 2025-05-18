@@ -4,14 +4,35 @@ Miniprojeto
 1 - Planejamento e Definição do Escopo
 Antes de codificar qualquer funcionalidade, é importante estabelecer:
 
-Objetivo: O que o app deve oferecer? Informações históricas? Experiência gamificada? Realidade aumentada?
+Objetivo: 
+Oferecer: 
+ Descrições enriquecidas de cada local, incluindo fatos históricos, curiosidades e relatos de moradores.
+Adicionar fotos antigas comparadas com imagens atuais para mostrar mudanças ao longo do tempo. (Se possível for, se exsitir dados antigos). 
+Incluir áudios narrados para quem prefere ouvir a história enquanto explora.
+ 
+Experiência gamificada?
 
-Público-alvo: Turistas, moradores, estudantes ou todos?
+ -> Experiência Gamificada para Engajamento
+Criar desafios temáticos, como "Explore 5 pontos históricos e desbloqueie conteúdos exclusivos".
+Permitir que os usuários acumulem pontos e conquistas ao visitar diferentes locais.
+Implementar missões culturais, incentivando o aprendizado interativo sobre a cidade.
 
-Funcionalidades principais: Mapa interativo, roteiros personalizados, sugestões inteligentes, etc.
+Realidade aumentada?
 
-2 - Público Alvo 🎯 <br>
-Estudantes, Turistas, Moradores, pessoas ligadas ao governo 
+-> Realidade Aumentada para Exploração Imersiva
+Permitir que os usuários apontem o celular para um monumento e vejam reconstruções históricas ou avatares de personagens contando curiosidades.
+Usar AR para recriar locais históricos que não existem mais, oferecendo uma experiência única.
 
+Público-alvo: 
 
+-> Turistas, moradores, estudantes ou todos?
 
+Funcionalidades principais:
+-> Mapa interativo, roteiros personalizados, sugestões inteligentes, etc.
+
+Roteiros Personalizados e Interativos
+Usar inteligência artificial para recomendar roteiros com base nos interesses do usuário (arte, história, gastronomia, etc.).
+
+Oferecer um guia inteligente que responde dúvidas sobre os locais visitados.
+
+Criar itinerários ajustáveis conforme o tempo disponível do usuário.

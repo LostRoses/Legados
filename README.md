@@ -10,7 +10,7 @@ Público-alvo: Turistas, moradores, estudantes ou todos?
 
 Funcionalidades principais: Mapa interativo, roteiros personalizados, sugestões inteligentes, etc.
 
-2 - Público Alvo 🎯
+2 - Público Alvo 🎯 <br>
 Estudantes, Turistas, Moradores, pessoas ligadas ao governo 
 
 

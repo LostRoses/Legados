@@ -5,10 +5,15 @@ Miniprojeto
 Antes de codificar qualquer funcionalidade, é importante estabelecer:
 
 Objetivo: 
-Oferecer: 
- Descrições enriquecidas de cada local, incluindo fatos históricos, curiosidades e relatos de moradores.
+Oferecer descrições enriquecidas de cada local, incluindo fatos históricos, curiosidades e relatos de moradores.
 Adicionar fotos antigas comparadas com imagens atuais para mostrar mudanças ao longo do tempo. (Se possível for, se exsitir dados antigos). 
 Incluir áudios narrados para quem prefere ouvir a história enquanto explora.
+
+Roteiros Personalizados e Interativos
+Usar inteligência artificial para recomendar roteiros com base nos interesses do usuário (arte, história, gastronomia, etc.).
+Oferecer um guia inteligente que responde dúvidas sobre os locais visitados.
+Criar itinerários ajustáveis conforme o tempo disponível do usuário.
+
  
 Experiência gamificada?
 
@@ -30,9 +35,7 @@ Público-alvo:
 Funcionalidades principais:
 -> Mapa interativo, roteiros personalizados, sugestões inteligentes, etc.
 
-Roteiros Personalizados e Interativos
-Usar inteligência artificial para recomendar roteiros com base nos interesses do usuário (arte, história, gastronomia, etc.).
-
-Oferecer um guia inteligente que responde dúvidas sobre os locais visitados.
-
-Criar itinerários ajustáveis conforme o tempo disponível do usuário.
+Funcionalidades Exclusivas para Turistas:
+Tradução automática de informações históricas para múltiplos idiomas.
+Sugestões de restaurantes e eventos culturais próximos aos locais visitados.
+Modo offline para permitir acesso a conteúdos sem internet.
